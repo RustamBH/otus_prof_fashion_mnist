@@ -4,6 +4,7 @@
 #include "logreg_classifier.h"
 #include "helpers.h"
 
+using kdd99::LogregClassifier;
 
 int main(int argc, char *argv[])
 {
